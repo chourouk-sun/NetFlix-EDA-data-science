@@ -14,7 +14,7 @@ Understand what kind of content is Netflix producing over time — Analyze the t
 
 # A. Is Netflix producing more TV Shows or Movies over time?
 
-![TV Shows vs Movies](plots/téléchargement.png)
+![TV Shows vs Movies](téléchargement.png)
 Netflix has steadily increased its content output since 2015. Movies dominated early years, but TV Shows have seen major growth, especially from 2018 onward. This may reflect a strategic push into episodic content.
 
 
