@@ -21,7 +21,23 @@ This suggests that during this period, Netflix shifted its focus more toward mov
 However, it's important to note that after 2019, the overall number of new titles started to decrease, which might be related to external factors such as market saturation or the impact of the COVID-19 pandemic on production schedules.
 In recent years, Netflix seems to be balancing TV Shows and Movies production.
 
-#
+# 🟠 B. Most Common Genres
+
+![TV Shows vs Movies](10genres.png)
+
+
+
+
+
+
+"The most popular genres on Netflix are International Movies, Dramas, and Comedies."
+
+
+"Netflix focuses heavily on drama and comedy, which appeals to a broad audience."
+
+
+"There is also strong representation of children’s and documentary content."
+
 #
 #
 #
