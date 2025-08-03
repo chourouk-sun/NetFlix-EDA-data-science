@@ -25,18 +25,17 @@ In recent years, Netflix seems to be balancing TV Shows and Movies production.
 
 ![TV Shows vs Movies](10genres.png)
 
+We can observe that International Movies rank at the top, with over 2,500 titles, closely followed by Dramas, which also have around 2,500 titles. This suggests that during this period, there may have been a trend or growing interest in content that explores different cultures and storytelling styles from around the world.
 
+Comedies and International TV Shows have nearly the same number of titles, with comedies slightly ahead. This could indicate that audiences are drawn to light-hearted content, possibly as a way to cope with the pressures of everyday life and work.
 
+Documentaries, Action, and Adventure genres share similar counts, showing a balanced interest in informative and high-energy entertainment.
 
+Similarly, TV Dramas and Independent Movies have roughly the same number of titles, suggesting steady production and interest in more serious or artistic content.
 
-
-"The most popular genres on Netflix are International Movies, Dramas, and Comedies."
-
-
-"Netflix focuses heavily on drama and comedy, which appeals to a broad audience."
-
-
-"There is also strong representation of children’s and documentary content."
+At the bottom of the list, we find Children & Family Movies and Romantic Movies, indicating that these genres are less represented in the dataset, possibly reflecting lower production or niche audiences on Netflix.
+ * The most popular genres on Netflix are International Movies, Dramas, and Comedies.
+ * Netflix focuses heavily on drama and comedy, which appeals to a broad audience.
 
 #
 #
