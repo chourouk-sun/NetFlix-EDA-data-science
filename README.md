@@ -63,7 +63,7 @@ Older content (before 2000) is less represented, showing Netflix focuses on newe
 5/ France and Japan each have approximately 400 titles.
 6/ Meanwhile, Germany, South Korea, and Spain each have around 250 titles, showing a moderate level of content production from these countries.
 
-# 🔵 Bonus Visualizations
+# 🔵 Movies & Tv Shows added Year :
 
 ![Heatmap: year_added vs type](heatmap.png)
 
